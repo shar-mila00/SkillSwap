@@ -1,0 +1,8 @@
+{
+  "name": "SkillSwap Pro",
+  "description": "A high-end skill-exchange platform featuring AI-driven matching, session management, and real-time messaging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
